@@ -154,6 +154,9 @@ dist
 # Local .terraform directories
 **/.terraform/*
 
+# Terraform lock files (users run terraform init to generate locally)
+**/.terraform.lock.hcl
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
