@@ -37,7 +37,7 @@ spec:
         fsGroup: 1001
       containers:
         - name: backend
-          image: 654654554686.dkr.ecr.us-east-1.amazonaws.com/devops-ia/production/backend
+          image: 074994084847.dkr.ecr.us-east-1.amazonaws.com/devops-ia/production/backend
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8080
