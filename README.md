@@ -1,4 +1,4 @@
-# AWS DevOps Platform — EKS + GitOps (ArgoCD) + Terraform
+# AWS DevOps Platform - EKS + GitOps (ArgoCD) + Terraform
 
 Ambiente de estudo/portfólio que provisiona uma stack completa na AWS (rede + EKS + CI/CD) e entrega aplicações no Kubernetes usando GitOps com ArgoCD.
 
